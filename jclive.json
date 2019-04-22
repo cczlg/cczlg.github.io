@@ -1,0 +1,4 @@
+{
+  "pullUrl":"rtmp://172.16.4.205:3935/live/test_pull",
+  "pushUrl":"rtmp://172.16.4.205:3935/live/"
+}
