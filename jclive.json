@@ -1,4 +1,5 @@
 {
   "pullUrl":"rtmp://172.16.4.205:3935/live/test_pull",
-  "pushUrl":"rtmp://172.16.4.205:3935/live/"
+  "pushUrl":"rtmp://172.16.4.205:3935/live/",
+  "baseUrl":"http://192.168.200.227:8080/"
 }
