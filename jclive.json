@@ -1,5 +1,5 @@
 {
-  "pullUrl":"rtmp://172.16.4.205:3935/live/test_pull",
-  "pushUrl":"rtmp://172.16.4.205:3935/live/",
-  "baseUrl":"http://192.168.200.227:8080/"
+  "pullUrl":"rtmp://222.168.23.144:2125/live/test_pull",
+  "pushUrl":"rtmp://222.168.23.144:2125/live/",
+  "baseUrl":"https://live.gyss365.cn/api/"
 }
